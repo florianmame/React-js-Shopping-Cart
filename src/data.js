@@ -1,8 +1,3 @@
-// import img1 from '../public/img/img1.png';
-// import img2 from '../public/img/img2.png';
-// import img3 from '../public/img/img3.png';
-
-
 const data = {
     productData:[
         {
